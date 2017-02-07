@@ -1,0 +1,20 @@
+body {
+	background-color: black;
+	color: white;
+	font-family: Verdana;
+	font-weight: normal;
+	text-align: center;
+}
+
+h1 {
+	font-size: 50px;
+}
+
+h2 {
+	font-size: 42px;
+	font-weight: 300;
+}
+
+.linkage {
+	font-size: 16px;
+}
